@@ -1,0 +1,8 @@
+body {
+  font-family: 'Source Sans Pro', 'Trebuchet MS', 'Lucida Grande', 'Bitstream Vera Sans', 'Helvetica Neue', sans-serif;
+  margin: 0;
+}
+
+.has-width-transition {
+  transition: width 200ms linear;
+}
